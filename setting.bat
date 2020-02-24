@@ -1,0 +1,1 @@
+powershell Set-ProcessMitigation -Name .\ExploitMe_1.exe -Disable ForceRelocateImages
